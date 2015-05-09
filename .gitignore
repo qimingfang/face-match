@@ -2,6 +2,30 @@
 logs
 *.log
 
+*.dll
+*.exe
+*.cmd
+*.pdb
+*.suo
+*.js
+*.user
+*.cache
+*.cs
+*.sln
+*.csproj
+*.txt
+*.map
+*.swp
+*.js.map
+!*.js/
+
+# Config
+.DS_Store
+.idea/*
+
+# Modules folder
+typings/
+
 # Runtime data
 pids
 *.pid
